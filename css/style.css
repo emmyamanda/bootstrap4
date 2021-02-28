@@ -195,6 +195,8 @@ body {
 /*Slide pics in about*/
 
 .carousel-item {
-    height: 500px;
+    height: 400px;
+    width: 400px;
+    
 }
 
