@@ -191,3 +191,10 @@ body {
     margin-top: 10px;
     color: #f05f40;
 }
+
+/*Slide pics in about*/
+
+.carousel-item {
+    height: 500px;
+}
+
